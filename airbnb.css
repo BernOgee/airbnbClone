@@ -1,0 +1,126 @@
+.top-nav {
+  text-align: center;
+  padding-top: 23px;
+  padding-bottom: 21px;
+  font-size: 16px;
+  line-height: 20px;
+  border: 0.5px solid gray;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  margin-bottom: 0;
+}
+
+nav {
+  border: 0.5px solid grey;
+  border-left: none;
+  border-right: none;
+  
+}
+
+.bttn {
+  padding: 12px 24px;
+  border: 0.5px solid gray;
+  border-radius: 24px;
+}
+
+.red-btn {
+  padding: 6px;
+  border-radius: 15px;
+  background-color: #ff3a5c;
+  color: #fff;
+}
+
+.bottom-nav {
+  padding: 23px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.bottom-nav-child {
+  padding: 12px;
+  margin-right: 1rem;
+}
+
+.bottom-nav-child :hover{
+  border-bottom: 2px solid grey;
+}
+
+.bottom-nav-child img {
+display: block;
+margin-top: auto;
+margin-left: auto;
+margin: auto;
+
+}
+
+.bottom-nav-child p {
+  font-size: 12px;
+  text-align: center;
+  margin: auto;
+  margin-top: 1rem;
+
+}
+
+.bottom-nav button {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.angle-right-btn {
+  border: 1px solid grey;
+  border-radius: 20px;
+  margin-right: 1rem;
+}
+
+.slider-btn {
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+/* .flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+.carousel-item img {
+  height: 286px;
+  width: 302px;
+  border-radius: 10px;
+}
+
+.carouselExample {
+  position: absolute;
+}
+
+.heart-icon {
+  position: absolute;
+  z-index: 1;
+  margin-top: -16rem;
+  margin-left: 16.5rem;
+}
+
+h5 {
+  font-size: 14px;
+  text-align: left;
+  font-weight: 300;
+}
+
+.grey-header {
+  color: grey;
+}
+
+.row {
+  margin-bottom: 2rem;
+}
+
+.col-lg-3 span {
+  float: right;
+}
+
+.beachfront, .pools, .omg {
+  border-bottom: 2px solid gray;
+}
